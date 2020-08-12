@@ -1,12 +1,12 @@
-
+-- Database Creation
 CREATE DATABASE burgers_db;
+
 USE burgers_db;
 
-CREATE TABLE burgers
-(
-	id int NOT NULL AUTO_INCREMENT,
-	name varchar(255) NOT NULL,
-	burger_name STRING NOT NULL,
-	devoured BOOLEAN NOT NULL,
-	PRIMARY KEY (id)
-);
+
+-- Table Creation
+CREATE TABLE burgers(
+id INTEGER AUTO_INCREMENT PRIMARY KEY,
+burger_name VARCHAR(50),
+devoured BOOLEAN,
+date TIMESTAMP);
