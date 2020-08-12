@@ -1,9 +1,5 @@
-<li>
-	{{name}}
+<!-- Partial for devoured burgers, right list--> 
 
-	<button class="change-sleep" data-id="{{id}}" data-newsleep="{{sleep}}">
-		{{#if sleep}}SLEEP TIME!{{else}}WAKE UP!{{/if}}
-	</button>
-
-	<button class="delete-cat" data-id="{{this.id}}">DELETE!</button>
+<li class="list-group-item disabled">
+	<span class="label" id={{this.id}}>{{this.id}}.  {{this.burger_name}}</span>
 </li>
