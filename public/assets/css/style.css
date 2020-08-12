@@ -1,19 +1,54 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+
+
+.burger-box {
+	position: relative;
+	/*border: 3px solid black;*/
 }
 
-.label {
-  font-weight: bold;
+.bottom {
+	margin-top: 10px;
+	/*border: 3px solid black;*/
+	bottom: 20px;
 }
 
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
+.btn {
+	display: block;
+	margin: 0 auto;
+	
 }
 
-.form-group {
-  margin-bottom: 5px;
+/* text below submit button */
+.directions {
+	font-size: 12px;
+}
+
+
+
+.devourBurgerButton {
+	position: absolute;
+	right: 5px;
+}
+
+body {
+	background-color: pink;
+
+}
+
+img {
+	padding-top: 2%;
+	padding-bottom: 1%;
+}
+
+h1 {
+	font-size: 60px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  height: 100px;
+	padding-top: 40px;
+	font-size: 12px;
 }
