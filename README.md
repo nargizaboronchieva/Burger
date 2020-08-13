@@ -9,7 +9,7 @@ A whimsical app that allows you to log  burgers that you would like to eat and m
 **Demonstation Link:** https://youtu.be/8HmRp7r9Fx8
 
 
-![Demo GIF](public/assets/images/demo.gif)
+![Demo GIF](public/assets/images/burger.gif)
 
 
 ## Table of Contents
