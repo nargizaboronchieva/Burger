@@ -1,8 +1,5 @@
-INSERT INTO burgers(burger_name, devoured)
-VALUES ("Big Mac", false),
-  ("Whooper", false),
-  ("Cheezburger", false),
-  ("Baconator", false),
-  ("Quarter Pounder", false),
-  ("McRoyal", false),
-  ("Double Double", true);
+INSERT INTO burgers_db.burgers(burger_name) 
+VALUES ("Cheeseburger"), ("Pizza Burger"), ("Steakburger");
+-- remember that true shows up as 1 and false shows up as 0 in the table.
+
+SELECT * FROM burgers;
