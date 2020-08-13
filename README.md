@@ -6,7 +6,7 @@
 ## Description
 A whimsical app that allows you to log  burgers that you would like to eat and mark them as "devoured" after you have satisfied your craving.
 
-**Heroku Link:** https://eat-da-burger88.herokuapp.com/
+**Demonstation Link:** https://youtu.be/8HmRp7r9Fx8
 
 ## Table of Contents
 
