@@ -8,6 +8,10 @@ A whimsical app that allows you to log  burgers that you would like to eat and m
 
 **Demonstation Link:** https://youtu.be/8HmRp7r9Fx8
 
+
+![Demo GIF](public/assets/images/demo.gif)
+
+
 ## Table of Contents
 
  &nbsp;&nbsp; [Installation](#installation) &nbsp;&nbsp; | &nbsp;&nbsp; [Usage](#usage) &nbsp;&nbsp; |  &nbsp;&nbsp; [License](#license) &nbsp;&nbsp; | 
